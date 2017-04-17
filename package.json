@@ -1,0 +1,35 @@
+{
+  "name": "homebridge-venstar",
+  "version": "0.1.0",
+  "description": "Venstar venstar plugin for homebridge: https://github.com/nfarina/homebridge",
+  "license": "MIT",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "Brian Knobbs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacketPerception/homebridge-venstar.git"
+  },
+  "dependencies": {
+    "debug": "^2.6.3",
+    "node-cache": "^4.1.1",
+    "q": "^1.5.0",
+    "request": "^2.81.0",
+    "semaphore": "^1.0.5",
+    "underscore": "^1.8.3"
+  },
+  "bugs": {
+    "url": "https://github.com/PacketPerception/homebridge-venstar/issues"
+  },
+  "homepage": "https://github.com/PacketPerception/homebridge-venstar#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
