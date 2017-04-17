@@ -1,6 +1,6 @@
 {
   "name": "homebridge-venstar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Venstar thermostat plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "MIT",
   "keywords": [
